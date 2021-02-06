@@ -1,5 +1,5 @@
 # The Image Enhancement Zoo
-By Yansheng Qiu, Kui Jiang
+By Yansheng Qiu, [Kui Jiang](https://github.com/kuijiang0802)
 
 ## Description
 * Image Enhancement Zoo: A list of [deraining](#Deraining), [dehazing](#Dehazing) and [brightening](#Brightening) methods. Papers, codes and datasets are maintained.
@@ -25,7 +25,7 @@ By Yansheng Qiu, Kui Jiang
 
 - LOL
   - old: [[papper]](https://github.com/daooshee/BMVC2018website/blob/master/chen_bmvc18.pdf) [[Homepage]](https://daooshee.github.io/BMVC2018website/)
-  - new: [[dataset baidu:r0xd]](https://pan.baidu.com/s/1-j6_3G9WHS8rkEBzHN7QvQ)
+  - new: [[dataset baidu:r0xd]]()
 
 - SID [[paper]](https://arxiv.org/abs/1805.01934) [[Homepage]](http://cchen156.web.engr.illinois.edu/SID.html)
 
@@ -74,7 +74,7 @@ By Yansheng Qiu, Kui Jiang
 
 - **[RT-VENet]** RT-VENet: A Convolutional Network for Real-time Video Enhancement (**ACM MM 2020**) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394171.3413951)
 
-- **Integrating Semantic Segmentation and Retinex Model for Low Light Image Enhancement**  (**ACM MM 2020**) [[paper]](http://39.96.165.147/Pub%20Files/2020/fmh_mm20.pdf) [[homepage]](https://mm20-semanticreti.github.io/) [dataset [google](https://drive.google.com/drive/folders/1rdMI2oUBv8eYrfvnmQ2ihLjzLh831Sff?usp=sharing) or [baidu:2wml](https://pan.baidu.com/s/1zx2tG9trnSrowz0wHM8phg)]
+- **Integrating Semantic Segmentation and Retinex Model for Low Light Image Enhancement**  (**ACM MM 2020**) [[paper]](http://39.96.165.147/Pub%20Files/2020/fmh_mm20.pdf) [[homepage]](https://mm20-semanticreti.github.io/) [dataset [google](https://drive.google.com/drive/folders/1rdMI2oUBv8eYrfvnmQ2ihLjzLh831Sff?usp=sharing) or [baidu:2wml]()]
 
 - **Low-Light Image Enhancement with Semi-Decoupled Decomposition** (**TMM 2020**) [[paper]](https://ieeexplore.ieee.org/document/8970535)  [[code]](https://github.com/hanxuhfut/Code)
 
@@ -346,7 +346,7 @@ By Yansheng Qiu, Kui Jiang
   
 - **[Directional global sparse model]** A directional global sparse model for single image rain removal (**ACM MM 2018**) [[paper](https://www.sciencedirect.com/science/article/pii/S0307904X18301069)][[code](http://www.escience.cn/system/file?fileId=98760)][[homepage](http://www.escience.cn/people/dengliangjian/index.html)]
 
-- **[MSCSC]** Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (**CVPR 2018**) [[paper](https://pan.baidu.com/s/1iiRr7ns8rD7sFmvRFcxcvw)][[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)][[homepage](https://sites.google.com/view/cvpr-anonymity)][[video](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
+- **[MSCSC]** Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (**CVPR 2018**) [[paper]()][[code](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)][[homepage](https://sites.google.com/view/cvpr-anonymity)][[video](https://www.youtube.com/watch?v=tYHX7q0yK4M)]
 
 - **[CNN Framework]** Robust Video Content Alignment and Compensation for Rain Removal in a CNN Framework (**CVPR 2018**) [[paper](https://arxiv.org/abs/1803.10433)][[homepage Chen](https://github.com/hotndy/SPAC-SupplementaryMaterials)][[homepage Chau](http://www.ntu.edu.sg/home/elpchau/)]
 
