@@ -3,7 +3,7 @@ By Yansheng Qiu, Kui Jiang
 
 ## Description
 * Image Enhancement Zoo: A list of [deraining](#Deraining), [dehazing](#Dehazing) and [brightening](#Brightening) methods. Papers, codes and datasets are maintained.
-* Thanks for the sharing of [Resources for Low Light Image Enhancement](https://github.com/dawnlh/low-light-image-enhancement-resources), [low-light-image-enhancment](https://github.com/Mengke-Yuan/low-light-image-enhancment), [DehazeZoo](https://github.com/cxtalk/DehazeZoo).
+* Thanks for the sharing of [Resources for Low Light Image Enhancement](https://github.com/dawnlh/low-light-image-enhancement-resources), [low-light-image-enhancment](https://github.com/Mengke-Yuan/low-light-image-enhancment), [DehazeZoo](https://github.com/cxtalk/DehazeZoo) and [DerainZoo](https://github.com/nnUyi/DerainZoo).
 
 ## 2 Image Quality Metrics
 * PSNR (Peak Signal-to-Noise Ratio) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4550695) [[matlab code]](https://www.mathworks.com/help/images/ref/psnr.html) [[python code]](https://github.com/aizvorski/video-quality)
